@@ -1,0 +1,2 @@
+# CS230_Operating_Platforms_Journal
+Software Design Document
