@@ -4,13 +4,13 @@ Software Design Document
 **Briefly summarize The Gaming Room client and their software requirements.**
 
 #### Who was the client? 
-The Game Room
+The Gaming Room.
 
 #### What type of software did they want you to design?
 Draw It or Lose It is loosely similar to the 1980s television game Win, Lose or Draw, where teams compete to guess what is being drawn. Rather than a player drawing images on an easel to help team members guess the puzzle (a phrase, title, or thing), the application will render images from a large library of stock drawings as clues. A game consists of four rounds of play lasting one minute each. Drawings are rendered at a steady rate and are fully complete at the 30-second mark. If the team does not guess the puzzle before time expires, the remaining teams have an opportunity to offer one guess each to solve the puzzle with a 15-second time limit
 
 #### What did you do particularly well in developing this documentation?
-The coding part for the game. Developing the authorization.
+The coding part for the game. Developing the authorization. User sign in.
 
 #### What about the process of working through a design document did you find helpful when developing the code?
 The evaluation section of the design document.
